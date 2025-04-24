@@ -15,3 +15,5 @@ eighth line
 =======
 6.satir
 >>>>>>> Stashed changes
+
+deneme
