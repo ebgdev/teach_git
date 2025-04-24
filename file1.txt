@@ -7,6 +7,7 @@ fourth line
 fiveth line
 3.satir
 sixth line
-
 4.satir
 5.satir
+seventh line
+
