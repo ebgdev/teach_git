@@ -10,4 +10,8 @@ sixth line
 4.satir
 5.satir
 seventh line
+<<<<<<< Updated upstream
 eighth line
+=======
+6.satir
+>>>>>>> Stashed changes
