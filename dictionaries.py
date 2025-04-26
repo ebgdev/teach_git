@@ -1,0 +1,1 @@
+any_dict = {"name":"erfan","surname":"bahcivan"}
